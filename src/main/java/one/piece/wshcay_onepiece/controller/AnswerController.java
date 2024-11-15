@@ -139,7 +139,7 @@ public class AnswerController{
             ps.addPoint("Franky", 5);
 
         } else if (answer.equals("d")) {
-            ps.addPoint("Jinhe", 10);
+            ps.addPoint("Jinbe", 10);
             ps.addPoint("Sanji", 5);
 
         } else if (answer.equals("e")) {
