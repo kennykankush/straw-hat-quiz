@@ -1,0 +1,9 @@
+{
+  "build": {
+    "dockerfilePath": "Dockerfile",
+    "context": "."
+  },
+  "deploy": {
+    "serviceName": "myapp"
+  }
+}
