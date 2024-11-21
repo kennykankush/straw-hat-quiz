@@ -30,7 +30,7 @@ public class AnswerController{
     
     @GetMapping("/1")
     public String page1() {
-        System.out.println("Hello, Page 1");
+        // System.out.println("Hello, Page 1");
         return "1";
     }
 
