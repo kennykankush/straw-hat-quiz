@@ -11,7 +11,7 @@ COPY src src
 
 RUN mvn package -Dmaven.test.skip=true
 
-ENV SERVER_PORT=8080
+ENV SERVER_PORT=8000
 
 EXPOSE ${SERVER_PORT}
 
